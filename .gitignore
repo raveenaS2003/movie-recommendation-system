@@ -1,0 +1,9 @@
+venv/
+venv311/
+newenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+Data/
+*.csv

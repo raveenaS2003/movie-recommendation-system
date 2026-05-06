@@ -105,5 +105,6 @@ Demo
 <img width="1920" height="1008" alt="Captures - File Explorer 06-05-2026 19_57_10" src="https://github.com/user-attachments/assets/270b47ce-69c2-41ab-8203-441f3af28c7a" />
 <img width="1920" height="1008" alt="Captures - File Explorer 06-05-2026 19_57_10" src="https://github.com/user-attachments/assets/f5f30edc-b96f-444d-a16f-74b2e7006ef0" />
 <img width="1920" height="1008" alt="INTREN_PROJECT - File Explorer 06-05-2026 19_57_36" src="https://github.com/user-attachments/assets/e7352065-a123-412c-80bb-e84aa9c0178c" />
+<img width="1920" height="1008" alt="Streamlit - Google Chrome 06-05-2026 20_01_04" src="https://github.com/user-attachments/assets/9388800f-af9a-4a98-aedc-17f719e0860b" />
 
 
